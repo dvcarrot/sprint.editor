@@ -1,11 +1,11 @@
 # Редактор для контент-менеджеров #
+## Демо версия ##
+
 * Платформа: 1С-Битрикс
 * Версия: 1.0.12
 * Блоки: Галерея, Заголовок, Текст, Картинка, Видео, Список
 * Полная версия: [http://marketplace.1c-bitrix.ru/solutions/sprint.editor/](http://marketplace.1c-bitrix.ru/solutions/sprint.editor/)
 * Документация: [https://bitbucket.org/andrey_ryabin/sprint.editor/wiki/Home](https://bitbucket.org/andrey_ryabin/sprint.editor/wiki/Home)
-
-## Внимание, это демо версия модуля ##
 
 ## Всем привет! ##
 
@@ -35,5 +35,3 @@
 ![Selection_030.png](https://bitbucket.org/repo/adr668/images/3478832990-Selection_030.png)
 
 ![Selection_031.png](https://bitbucket.org/repo/adr668/images/812841297-Selection_031.png)
-
-
