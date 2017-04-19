@@ -1,37 +1,8 @@
 # Редактор для контент-менеджеров #
 ## Демо версия ##
-
 * Платформа: 1С-Битрикс
 * Версия: 1.0.12
 * Блоки: Галерея, Заголовок, Текст, Картинка, Видео, Список
 * Полная версия: [http://marketplace.1c-bitrix.ru/solutions/sprint.editor/](http://marketplace.1c-bitrix.ru/solutions/sprint.editor/)
 * Документация: [https://bitbucket.org/andrey_ryabin/sprint.editor/wiki/Home](https://bitbucket.org/andrey_ryabin/sprint.editor/wiki/Home)
-
-## Всем привет! ##
-
-Думаю вы посмотрели видеоролик о работе редактора, почитали несколько обзорных материалов и захотели потрогать его руками. 
-
-Могу вам предложить установить редактор версии  1.0.12
-
-Это полноценный рабочий модуль, только в нем ограниченный набор блоков: Галерея, Заголовок, Текст, Картинка, Видео, Список, все как на видео.
-
-Если вам понравится - можете просто купить обновление, модуль обновится до актуальной версии и у вас появится полный набор блоков и все новые крутые фичи!
-
-
-## Скачать версию 1.0.12 ##
-[https://yadi.sk/d/2MGbUEhw3H4YTN](https://yadi.sk/d/2MGbUEhw3H4YTN)
-
-
-## Инструкция по установке ##
-* Заходим в админке в Контент - Структура сайта - Файлы и папки
-* Переходим в директорию /bitrix/modules/
-* Загружаем в нее архив с модулем
-* Распаковываем, у вас появится директория /bitrix/modules/sprint.editor/
-* Идем в Маркетплейс - Установленные решения, устанавливаем модуль
-
-
-![Selection_029.png](https://bitbucket.org/repo/adr668/images/1270005155-Selection_029.png)
-
-![Selection_030.png](https://bitbucket.org/repo/adr668/images/3478832990-Selection_030.png)
-
-![Selection_031.png](https://bitbucket.org/repo/adr668/images/812841297-Selection_031.png)
+* Установка демо-версии: [https://bitbucket.org/andrey_ryabin/sprint.editor/wiki/edit/DemoVersion](https://bitbucket.org/andrey_ryabin/sprint.editor/wiki/edit/DemoVersion)
